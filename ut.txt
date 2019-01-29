@@ -3,4 +3,9 @@ welcome to github.
 this is a text file for github learning.
 hi
 
+added new text
+2nd new text
+
+
 final copy
+
